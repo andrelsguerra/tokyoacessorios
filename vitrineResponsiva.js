@@ -1,4 +1,4 @@
-vitrineResponsiva = function() {
+const vitrineResponsiva = function() {
     if ($(window).width() < 767) {
         ! function(i) {
             "use strict";
